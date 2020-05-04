@@ -169,7 +169,7 @@ jalan("\033[1;96m██████╔╝███████║██╔██
 jalan("\033[1;96m██╔══██╗██╔══██║██║╚██╔╝██║██║")
 jalan("\033[1;96m██║░░██║██║░░██║██║░╚═╝░██║██║")
 jalan("\033[1;96m╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝")
-jalan('\033[1;93m Welcome to ALL FACEBOOK TRICKS AND FREE HELPING ZONES OWNER RAMEEZ SARWAR ITX RAMI)
+jalan('\033[1;93m Welcome to ALL FACEBOOK TRICKS AND FREE HELPING ZONES OWNER RAMEEZ SARWAR ITX RAMI')
 print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mrameezsarwar\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
 CorrectUsername = "rameezsarwar"
