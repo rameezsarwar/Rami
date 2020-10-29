@@ -169,7 +169,7 @@ jalan("\033[1;96m██████╔╝███████║██╔██
 jalan("\033[1;96m██╔══██╗██╔══██║██║╚██╔╝██║██║")
 jalan("\033[1;96m██║░░██║██║░░██║██║░╚═╝░██║██║")
 jalan("\033[1;96m╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝")
-jalan('\033[1;93m Welcome to ALL FACEBOOK TRICKS AND FREE HELPING ZONES OWNER RAMEEZ SARWAR ITX RAMI')
+jalan('\033[1;93m Welcome to clonning')
 print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mrameezsarwar\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
 CorrectUsername = "rameezsarwar"
@@ -186,10 +186,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;96mWrong Password"
-            os.system('xdg-open https://m.facebook.com/groups/glenncarlo8/')
+            os.system('xdg-open https://m.facebook.com/rameez.sarwar.official')
     else:
         print "\033[1;96mWrong Username"
-        os.system('xdg-open https://m.facebook.com/groups/glenncarlo8/')
+        os.system('xdg-open https://m.facebook.com/rameez.sarwar.official')
 
 def login():
 	os.system('clear')
